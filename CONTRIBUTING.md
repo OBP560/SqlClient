@@ -29,7 +29,9 @@ Please do:
 - **DO** include tests when adding new features. When fixing bugs, start with adding a test that highlights how the current behavior is broken.
 - **DO** consider concurrency when writing tests. Our pipelines run builds and tests in parallel using the same client and server configurations (in an isolated mode). E.g. Consider using dynamic table/database object names instead of hardcoded values (Use existing tests for reference).
 - **DO** keep the discussions focused. When a new or related topic comes up it's often better to create new issue than to side track the discussion.
-- **DO** blog and tweet (or whatever) about your contributions, frequently!
+- **DO** blog and tweet about your contributions, frequently!
+-**DO** comment your views below!
+-**DO** whatsapp, emails and facebook about your contributions, frequently!
 
 Please do not:
 
